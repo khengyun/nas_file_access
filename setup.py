@@ -9,7 +9,7 @@ setup(
     install_requires=[
         "requests",
     ],
-    author="Your Name",
+    author="khaangnguyeen",
     author_email="khaangnguyeen@gmail.com",
     description="A package to access files on a NAS using only the path",
     long_description=open("README.md").read(),
